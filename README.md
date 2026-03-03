@@ -1,4 +1,5 @@
 The script is used to change the background in all Photoshop compositions to transparent.
+
 Skrypt służy do zmiany tła we wszystkich kompozycjach w photoshopie na przeźroczystą.
 
 Instalation Windows/ Instalacja w Windows
